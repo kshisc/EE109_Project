@@ -5,4 +5,5 @@
 * Feedback System: Servo motor indicates speed level. Buzzer plays a tone when speed exceeds the threshold. RGB LED indicates relative speed comparison with another device.
 * Serial Communication (UART): Transmits measured speed in a formatted message. Receives speed data from another system and compares the results.
 
-video: https://drive.google.com/file/d/15Dl_ujMHG98AdKpPSSr9SUC5X92ZXilq/view?usp=sharing
+https://github.com/user-attachments/assets/a0f5e05b-4de3-4b8f-a7b7-1cc7cf5a5962
+
