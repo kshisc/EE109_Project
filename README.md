@@ -1,4 +1,4 @@
-# EE109_Project
+# Speedometer
 * Speed Measurement: Two phototransistor light detectors detect when an object enters and exits a fixed distance. Timer interrupts measure the elapsed time between sensors. Speed is calculated based on the known distance between sensors.
 * LCD Display: Prints measured time (ms) and calculated speed (cm/s) and shows the configurable speed threshold.
 * Adjustable Speed Threshold: A rotary encoder allows the user to increase or decrease the speed threshold. The threshold is stored in EEPROM so it persists after power cycles.
